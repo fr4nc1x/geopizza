@@ -19,3 +19,6 @@ Struttura Database MySQL
 -	Ogni Pizzeria riceverà voti e commenti, e da questi verrà creata una classifica. 
 * VETRINA:
 -	Una vera e propria vetrina dove verranno mostrate le migliori pizzerie, quelle con i migliori voti e commenti e quelle che pagano per avere una popolarità maggiore.
+
+Architettura Microsoft Azure
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
