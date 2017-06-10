@@ -17,7 +17,7 @@ Il team è composto dagli studenti Luca Guarnera (matricola ??) e Francesco Ragu
 
 
 
-### Architettura Microsoft Azure
+# Architettura Microsoft Azure
 ![Architecture scheme](https://github.com/fr4nc1x/hello-world/blob/master/Untitled%20Diagram.png)
  
  ### Database:
