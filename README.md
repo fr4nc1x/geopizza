@@ -21,4 +21,4 @@ Struttura Database MySQL
 -	Una vera e propria vetrina dove verranno mostrate le migliori pizzerie, quelle con i migliori voti e commenti e quelle che pagano per avere una popolarità maggiore.
 
 Architettura Microsoft Azure
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Architecture scheme](https://github.com/fr4nc1x/hello-world/blob/master/Untitled%20Diagram.png)
