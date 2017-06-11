@@ -27,6 +27,22 @@ Il numero di app/domini che è possibile ospitare con il piano di servizio Stand
 Il supporto predefinito per il bilanciamento del carico di rete permette di distribuire automaticamente il traffico tra le istanze VM. Il piano Standard include supporto integrato per la scalabilità automatica, che modifica automaticamente il numero di istanze di macchina virtuale in esecuzione in base alle esigenze di traffico. Include anche supporto predefinito per il backup.
 
 ![Standard S1](https://github.com/fr4nc1x/hello-world/blob/master/StandardS1.png)
+In dettaglio, il suddetto piano tariffario offre:
+
+ * App Web, per dispositivi mobili o API senza alcun limite;
+ * Spazio su disco pari a 50 GB;
+ * Numero massimo di istanze pari a 10;
+ * 1 core dedicato e 1.75 GB di RAM;
+ * Backup giornaliero automatico;
+ * 5 slot per lo staging delle app Web.
+
+Inoltre il sistema grazie alle funzionalità di Microsoft Azure acquisisce proprietà quali:
+
+Adattività :risponde dinamicamente alla crescita degli utenti
+Modularità: consente una scala facile di qualsiasi parte indipendente
+Costo: si paga solo quello di cui si ha veramente bisogno
+Ridondanza: moltiplica la soluzione e riduce i rischi di guasto
+ 
 
 
 ### Azure Active Directory
