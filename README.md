@@ -69,12 +69,17 @@ Grazie all'utilizzo di questo servizio è anche possibile avere una distribuzion
 ### Estensioni
 All'interno della nostra soluzione sono state utilizzate varie estensioni per l'importanza dei servizi che offrono e per l'ottimizzazione dei processi.
 
+#### Google Maps
 Per la geolocalizzazione dell'utente e delle pizzerie è stato utilizzato il servizio fornito da Google, ovvero Google Maps.
 In modo da facilitare la ricerca delle pizzerie da parte dell'utente tramite questo servizio basato su localizzazione tramite GPS.
 In questo modo settando una distanza massima dalla posizione dell'utente, espressa in latitudine e longitudine, è possibile interrograre il database e trovare le pizzerie che rientrano nel raggio d'azione desiderato.
 
 Per la gestione del database MySql è stato utilizzato phpMyAdmin.
 Azure permette l'installazione nella propria web app del tool phpMyAdmin, per poi utilizzarlo tramite browser inserendo delle credenziali settate durante la configurazione dell'estensione.
+
+Nella web App è stata incorporata anche un'estensione per l'ottimizzazione delle immagini, anche quelle caricate dagli utenti. Quest'estensione si chiama Microsoft Image Optimizer, è gratuita ed è disponibile direttamente dalla lista di estensioni sul portale di Azure. 
+
+Un altro tool di ottimizzazione installato è Microsoft Azure Minifier. Estensione che serve a minimizzare i file .css e .js della Web App. Anche questo è gratuito e disponibile nella lista di estensioni di Azure.
 
 
  
