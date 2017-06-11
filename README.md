@@ -19,6 +19,12 @@ Il team è composto dagli studenti Luca Guarnera (matricola ??) e Francesco Ragu
 
 # Architettura Microsoft Azure
 ![Architecture scheme](https://github.com/fr4nc1x/hello-world/blob/master/Untitled%20Diagram.png)
+
+### Azure Active Directory
+
+Azure AD è il provider di identità, responsabile della verifica dell'identità degli utenti e delle applicazioni esistenti nella directory di un'organizzazione e, in ultima analisi, la pubblicazione di token di sicurezza dopo l'autenticazione di tali utenti e applicazioni.
+Un'applicazione che vuole gestire l'autenticazione con Azure AD deve essere registrata in Azure AD, che registra e identifica in modo univoco l'applicazione nella directory.
+Il form di login è stato gestito utilizzando le librerie di autenticazione open source Azure AD per rendere facile l'autenticazione gestendo i dettagli del protocollo (Librerie di autenticazione Active Directory Azure (ADAL))
  
  ### Database:
 
