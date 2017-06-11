@@ -86,4 +86,6 @@ Tool di Azure per il monitoraggio della Web App. Tramite quest'estensione è pos
 Con questo tool si hanno funzionalità avanzate di monitoraggio delle prestazioni e generazione di avvisi, dashboard facili da usare e da interpretare. Identifica rapidamente i problemi e offre un'analisi avanzata di tutte le parti del sistema per trovare una soluzione al  problema. E' possibile fare un'analisi interattiva dei dati per individuare le tendenze nelle prestazioni e nel comportamento delle applicazioni, identifica i modelli di utilizzo. Si può gestire il tool tramite query interattive e ricerca full-text.
 Quest'estensione è dotata di algoritmi di machine learning per analizzare continuamente i dati di telemetria delle applicazioni. Rileva le anomalie, il numero di errori, i cambiamenti in termini di prestazioni e i comportamenti di Servizi cloud di Azure.
 Si può configurare in modo da ricevere notifiche e avvisi con informazioni di diagnostica avanzate per poter affrontare i problemi all'interno della Web App in maniera immediata.
+#### Logs Browser
+Si tratta di un'estensione del servizio per i siti web Azure che sa leggere i diversi registri del sito, inclusi i log di http e i log di applicazioni provenienti da diverse fonti.
  
