@@ -66,16 +66,15 @@ Il servizio app offre scalabilità automatica e disponibilità in un'infrastrutt
 Grazie all'utilizzo di questo servizio è anche possibile avere una distribuzione continua con Git, Team Foundation Server, GitHub e Visual Studio Team Services. 
 
  
- ### Database:
+### Estensioni
+All'interno della nostra soluzione sono state utilizzate varie estensioni per l'importanza dei servizi che offrono e per l'ottimizzazione dei processi.
 
-Struttura Database MySQL
+Per la geolocalizzazione dell'utente e delle pizzerie è stato utilizzato il servizio fornito da Google, ovvero Google Maps.
+In modo da facilitare la ricerca delle pizzerie da parte dell'utente tramite questo servizio basato su localizzazione tramite GPS.
+In questo modo settando una distanza massima dalla posizione dell'utente, espressa in latitudine e longitudine, è possibile interrograre il database e trovare le pizzerie che rientrano nel raggio d'azione desiderato.
 
-* PIZZERIA :
--	L’elenco delle pizzerie vengono trovate in base alla geolocalizzazione;
--	Ogni pizzeria deve avere un menù, per iniziare metteremo lo stesso menù per tutte le pizzerie.
-* UTENTE:
--	Nel caso in cui l’utente usufruisce del servizio a domicilio deve rilasciare informazioni riguardo: Cognome, telefono, via.
-* RANKING:
--	Ogni Pizzeria riceverà voti e commenti, e da questi verrà creata una classifica. 
-* VETRINA:
--	Una vera e propria vetrina dove verranno mostrate le migliori pizzerie, quelle con i migliori voti e commenti e quelle che pagano per avere una popolarità maggiore.
+Per la gestione del database MySql è stato utilizzato phpMyAdmin.
+Azure permette l'installazione nella propria web app del tool phpMyAdmin, per poi utilizzarlo tramite browser inserendo delle credenziali settate durante la configurazione dell'estensione.
+
+
+ 
