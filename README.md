@@ -27,6 +27,7 @@ Il numero di app/domini che è possibile ospitare con il piano di servizio Stand
 Il supporto predefinito per il bilanciamento del carico di rete permette di distribuire automaticamente il traffico tra le istanze VM. Il piano Standard include supporto integrato per la scalabilità automatica, che modifica automaticamente il numero di istanze di macchina virtuale in esecuzione in base alle esigenze di traffico. Include anche supporto predefinito per il backup.
 
 ![Standard S1](https://github.com/fr4nc1x/hello-world/blob/master/StandardS1.png)
+
 In dettaglio, il suddetto piano tariffario offre:
 
  * App Web, per dispositivi mobili o API senza alcun limite;
@@ -38,10 +39,10 @@ In dettaglio, il suddetto piano tariffario offre:
 
 Inoltre il sistema grazie alle funzionalità di Microsoft Azure acquisisce proprietà quali:
 
-Adattività :risponde dinamicamente alla crescita degli utenti
-Modularità: consente una scala facile di qualsiasi parte indipendente
-Costo: si paga solo quello di cui si ha veramente bisogno
-Ridondanza: moltiplica la soluzione e riduce i rischi di guasto
+* Adattività :risponde dinamicamente alla crescita degli utenti
+* Modularità: consente una scala facile di qualsiasi parte indipendente
+* Costo: si paga solo quello di cui si ha veramente bisogno
+* Ridondanza: moltiplica la soluzione e riduce i rischi di guasto
  
 
 
@@ -51,11 +52,18 @@ Azure AD è il provider di identità, responsabile della verifica dell'identità
 Un'applicazione che vuole gestire l'autenticazione con Azure AD deve essere registrata in Azure AD, che registra e identifica in modo univoco l'applicazione nella directory.
 Il form di login è stato gestito utilizzando le librerie di autenticazione open source Azure AD per rendere facile l'autenticazione gestendo i dettagli del protocollo (Librerie di autenticazione Active Directory Azure (ADAL))
 
-
+### Data Storage
+Come data storage per la web app è stato scelto una database MySql.
+Database di Azure per MySQL offre un servizio di database gestito per lo sviluppo e la distribuzione di app, che permette di creare e gestire un database MySQL su cloud.
+La scalabilità dinamica consente al database di rispondere in modo trasparente ai requisiti delle risorse soggetti a rapidi cambiamenti. 
+Il servizio gestito Database di Azure per MySQL garantisce l'applicazione automatica di patch al database, i backup automatici, il monitoraggio predefinito, la sicurezza e soprattutto garantisce la totale disponibilità del DB che è sempre attivo ed in esecuzione.
 
 ### Web App
 
 La soluzione al progetto è stata pensata come una Web App, in modo da essere accessibile ed utilizzabile da qualsiasi dispositivo mobile e non. 
+Come servizio di Azure è stato utilizzato il servizio App Web che permette di creare, distribuire e gestire rapidamente potenti siti Web e app Web. Inoltre permette di creare API dedicate e app Web basate su standard con .NET, Node.js, PHP, Python e Java. 
+Il servizio app offre scalabilità automatica e disponibilità in un'infrastruttura di data center globale.
+Grazie all'utilizzo di questo servizio è anche possibile avere una distribuzione continua con Git, Team Foundation Server, GitHub e Visual Studio Team Services. 
 
  
  ### Database:
