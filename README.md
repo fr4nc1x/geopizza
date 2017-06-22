@@ -131,4 +131,31 @@ L’utente, dalla home page, può effettuare i il “login/Registrazione”, opp
  * La pagina di “Login/Registrazione” è la seguente:
  
  ![pag_2](https://github.com/fr4nc1x/hello-world/blob/master/pag_2.png)
+Dalla pagina di login l’utente, se già registrato potrà fare l’accesso (Notare che è possibile usare un account di prova). Se l’utente non si è registrato potrà farlo cliccando sull’apposita voce “Registrati”. Al click apparirà il seguente menù:
+
+ ![pag_3](https://github.com/fr4nc1x/hello-world/blob/master/pag_3.png)
  
+Possiamo notare che per questa fase di registrazione l’utente resta sulla stessa pagina “login”. Il form per la registrazione appare grazie ad una animazione in JQuery. Per la fase di registrazione sono obbligatori i capi “Username” e “Password”. 
+Dopo aver effettuato il login, il menù posto sopra la pagine cambia nel seguente modo:
+
+ ![pag_4](https://github.com/fr4nc1x/hello-world/blob/master/pag_4.png)
+Tramite il tasto “Cerca pizzeria” possiamo cercare le pizzerie vicino ad una determinata zona:
+ ![pag_5](https://github.com/fr4nc1x/hello-world/blob/master/pag_5.png)
+ Attenzione che se la mappa non viene fatta visualizzare, bisogna far procedere con abilitare gli script non sicuri. Ogni volta che accediamo su questa pagina il numero di pizzerie disponibili per quella zona cambia. Questo perché non avendo un elenco di tutte le pizzerie per tutte le zone (e comunque anche se avremmo avuto tutte queste informazioni sarebbe stato complicato andare a gestire il tutto) abbiamo deciso di aggiungere 10 diverse pizzerie e ogni volta che si accede alla pagine ne vengono prese un numero N random.
+A questo punto possiamo procedere con l’effettuare una prenotazione. Cliccando su il bottone “Da Vinci” (lo stesso procedimento è possibile farlo con le “gocce” che sono presenti sulla mappa, dove cliccando su di esse appare il nome della pizzeria e di conseguenza è possibile proseguire con lo step di ordinazione) ) ci spostiamo sulla seguente pagina:
+
+![pag_6](https://github.com/fr4nc1x/hello-world/blob/master/pag_6.png)
+
+Riempito tutto il form possiamo inviare la comanda. Successivamente , verremo indirizzari in una pagina dove viene mostrata la comanda appena effettuata e il totale da pagare:
+
+![pag_7](https://github.com/fr4nc1x/hello-world/blob/master/pag_7.png)
+Infine c’è anche la possibilità di poter votare le pizzerie cliccando o sul tasto “Vota pizzeria” o sulla voce del menù principale “Vota pizzeria”:
+![pag_8](https://github.com/fr4nc1x/hello-world/blob/master/pag_8.png)
+
+Dopo aver dato un voto alla pizzeria, il rank delle pizzerie mostrate nella home page, verrà automaticamente aggiornato. Il rank viene calcolato effettuando una media dei voti.
+Infine un ultimo elemento che è stato implementato è stato quello di aggiungere un modulo di computer vision. È possibile visualizzare il tutto cliccando sulla voce del menù “Prossimamente”:
+![pag_9](https://github.com/fr4nc1x/hello-world/blob/master/pag_9.png)
+Dopo aver inserito l’URL dell’immagine di pizza (quello presente nella textbox è settato di default) e cliccato su “Analizza immagine”, verrà mostrata l’immagine caricata e i tag di quest’utlima:
+
+![pag_9](https://github.com/fr4nc1x/hello-world/blob/master/pag_10.png)
+
