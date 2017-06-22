@@ -1,6 +1,6 @@
 # Geopizza: find the nearest pizza
 
-Link: geopizza.azurewebsites.net
+Link: https://geopizza.azurewebsites.net/
 
 L'idea è quella di creare un servizio per pizzerie, in particolare un portale dove in base alla geolocalizzazione dell'utente, consiglia le pizzerie più vicine dove poter ordinare delle pizze sia a domicilio che da asporto.
 
