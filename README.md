@@ -122,5 +122,6 @@ Nel progetto è stata creata una sezione "Prossimamente" perchè l'intenzione è
 
 La Web App è stata strutturata nel seguente modo:
  * Una index page:
-![index](https://github.com/fr4nc1x/hello-world/blob/master/StandardS1.png)
+ 
+![index](https://github.com/fr4nc1x/hello-world/blob/master/index.png)
 
