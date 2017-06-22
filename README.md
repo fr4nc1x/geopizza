@@ -89,3 +89,31 @@ Si può configurare in modo da ricevere notifiche e avvisi con informazioni di d
 #### Logs Browser
 Si tratta di un'estensione del servizio per i siti web Azure che sa leggere i diversi registri del sito, inclusi i log di http e i log di applicazioni provenienti da diverse fonti.
  
+ ### Cognitive Services
+ Con il servizio Cognitive Services di Microsoft si possono introdurre nelle app potenti algoritmi con poche righe di codice. Compatibilità con diversi dispositivi e piattaforme, ad esempio iOS, Android e Windows, miglioramenti continui e facilità di configurazione.
+I servizi che mette a disposizione sono:
+ 
+ * Visione Artificiale
+ * Sintesi Vocale
+ * Linguaggio
+ * Conoscenza
+ * Ricerca
+ 
+ ### Computer Vision API
+ L'API Computer Vision per cloud fornisce l'accesso ad algoritmi avanzati per l'elaborazione di immagini e la restituzione delle informazioni. Caricando un'immagine o specificando un URL di immagine, gli algoritmi Microsoft Computer Vision possono analizzare i contenuti visivi in modi diversi in base agli input e alle scelte dell'utente. Con le API di Computer Vision si possono analizzare le immagini:
+ 
+ * Analizzare un immagine per estrarre tag descrittivi
+ * Utilizzare un modello di dominio specifico
+ * Creare una miniatura
+ * Rilevare ed estrarre testo stampato da un'immagine
+ 
+Con il metodo Analyse Image, è possibile estrarre features visive basate sul contenuto dell'immagine. È possibile caricare un'immagine o specificare un URL di immagine e scegliere le caratteristiche da restituire, tra cui:
+
+ * Categoria dell'immagine
+ * Un elenco dettagliato dei tag relativi al contenuto dell'immagine
+ * Il colore dominante o se un'immagine è in bianco e nero
+ * Una descrizione del contenuto dell'immagine in una frase completa
+ * Le coordinate, il sesso e l'età di tutti i volti contenuti nell'immagine
+
+Nel progetto è stata creata una sezione "Prossimamente" perchè l'intenzione è quella di analizzare le immagini delle pizze, caricate dagli utenti per estrarre in automatico il tipo di pizza in base ad un classificatore allenato opportunamente ed inserire quella determinata pizza nella comanda.
+
