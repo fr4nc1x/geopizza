@@ -125,3 +125,10 @@ La Web App è stata strutturata nel seguente modo:
  
 ![index](https://github.com/fr4nc1x/hello-world/blob/master/index.png)
 
+L’utente, dalla home page, può effettuare i il “login/Registrazione”, oppure cercare le pizzerie (Notare che per poter effettuare l’operazione di prenotazione pizza e i successivi voti bisogna effettuare il login):
+![pag_1](https://github.com/fr4nc1x/hello-world/blob/master/pag_1.png)
+
+ * La pagina di “Login/Registrazione” è la seguente:
+ 
+ ![pag_2](https://github.com/fr4nc1x/hello-world/blob/master/pag_2.png)
+ 
