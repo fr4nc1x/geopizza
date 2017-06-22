@@ -117,3 +117,10 @@ Con il metodo Analyse Image, è possibile estrarre features visive basate sul co
 
 Nel progetto è stata creata una sezione "Prossimamente" perchè l'intenzione è quella di analizzare le immagini delle pizze, caricate dagli utenti per estrarre in automatico il tipo di pizza in base ad un classificatore allenato opportunamente ed inserire quella determinata pizza nella comanda.
 
+
+# Guida all'uso
+
+La Web App è stata strutturata nel seguente modo:
+ * Una index page:
+![index](https://github.com/fr4nc1x/hello-world/blob/master/StandardS1.png)
+
