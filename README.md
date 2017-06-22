@@ -140,8 +140,11 @@ Possiamo notare che per questa fase di registrazione l’utente resta sulla stes
 Dopo aver effettuato il login, il menù posto sopra la pagina cambia nel seguente modo:
 
  ![pag_4](https://github.com/fr4nc1x/hello-world/blob/master/pag_4.png)
+ 
 Tramite il tasto “Cerca pizzeria” possiamo cercare le pizzerie vicino ad una determinata zona:
+
  ![pag_5](https://github.com/fr4nc1x/hello-world/blob/master/pag_5.png)
+ 
  Attenzione che se la mappa non viene fatta visualizzare, bisogna procedere con l'abilitazione degli script non sicuri nel browser. Ogni volta che accediamo su questa pagina il numero di pizzerie disponibili per quella zona cambia. Questo perché non avendo un elenco di tutte le pizzerie per tutte le zone abbiamo deciso di aggiungere 10 diverse pizzerie e ogni volta che si accede alla pagine ne vengono prese un numero N random.
 A questo punto possiamo procedere con l’effettuare una prenotazione. Cliccando sul bottone “Da Vinci” (lo stesso procedimento è possibile farlo con le “gocce” che sono presenti sulla mappa, dove cliccando su di esse appare il nome della pizzeria e di conseguenza è possibile proseguire con lo step di ordinazione) ) ci spostiamo sulla seguente pagina:
 
