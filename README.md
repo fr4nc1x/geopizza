@@ -13,7 +13,7 @@ I voti ricevuti dai vari utenti servono per creare una vera e propria classifica
 Inoltre è possibile far pagare una pizzeria per mettersi in mostra per un determinato periodo di tempo. La pizzeria in questione sarà messa in vetrina in modo tale che tutti gli utenti possano vederla. Questa è una vera e propria forma di pubblicità.
 
 # Team:
-Il team è composto dagli studenti Luca Guarnera (matricola ??) e Francesco Ragusa (matricola: W82000102) iscritti al corso di laurea magistrale in Informatica dell'Università degli Studi di Catania.
+Il team è composto dagli studenti Luca Guarnera (matricola W82000100) e Francesco Ragusa (matricola: W82000102) iscritti al corso di laurea magistrale in Informatica dell'Università degli Studi di Catania.
 
 
 
