@@ -30,7 +30,7 @@ Il supporto predefinito per il bilanciamento del carico di rete permette di dist
 
 In dettaglio, il suddetto piano tariffario offre:
 
- * App Web, per dispositivi mobili o API senza alcun limite;
+ * Web App, per dispositivi mobili o API senza alcun limite;
  * Spazio su disco pari a 50 GB;
  * Numero massimo di istanze pari a 10;
  * 1 core dedicato e 1.75 GB di RAM;
