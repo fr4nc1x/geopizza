@@ -24,7 +24,7 @@ Il team è composto dagli studenti Luca Guarnera (matricola W82000100) e Frances
 Il piano tariffario utilizzato per lo sviluppo del servizio, a fronte degli 80€ disponibili, è stato il piano Standard S1.
 Tale piano è stato progettato per Web app, per dispositivi mobili e per le API negli ambienti di produzione. 
 Il numero di app/domini che è possibile ospitare con il piano di servizio Standard è illimitato. I prezzi variano in base alle dimensioni e al numero di istanze di macchina virtuale eseguite. Quello scelto da noi S1 ha il prezzo di 62.74 € mensili.
-Il supporto predefinito per il bilanciamento del carico di rete permette di distribuire automaticamente il traffico tra le istanze VM. Il piano Standard include supporto integrato per la scalabilità automatica, che modifica automaticamente il numero di istanze di macchina virtuale in esecuzione in base alle esigenze di traffico. Include anche supporto predefinito per il backup.
+Il supporto predefinito per il bilanciamento del carico di rete permette di distribuire automaticamente il traffico tra le istanze VM. Il piano Standard include supporto integrato per la scalabilità automatica, che modifica automaticamente il numero di istanze di macchine virtuali in esecuzione in base alle esigenze di traffico. Include anche supporto predefinito per il backup.
 
 ![Standard S1](https://github.com/fr4nc1x/hello-world/blob/master/StandardS1.png)
 
