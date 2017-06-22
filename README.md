@@ -130,7 +130,8 @@ L’utente, dalla home page, può effettuare i il “login/Registrazione”, opp
 
  * La pagina di “Login/Registrazione” è la seguente:
  
- ![pag_2](https://github.com/fr4nc1x/hello-world/blob/master/pag_2.png)
+![pag_2](https://github.com/fr4nc1x/hello-world/blob/master/pag_2.png)
+
 Dalla pagina di login l’utente, se già registrato potrà fare l’accesso (Notare che è possibile usare un account di prova). Se l’utente non si è registrato potrà farlo cliccando sull’apposita voce “Registrati”. Al click apparirà il seguente menù:
 
  ![pag_3](https://github.com/fr4nc1x/hello-world/blob/master/pag_3.png)
